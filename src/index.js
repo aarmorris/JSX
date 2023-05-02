@@ -14,7 +14,8 @@
         const age = 23;
 
 
-        return <h1>Hi, my name is {name} and my age is {age} </h1>;
+        return <input type="number" min={5} max={10}/>;
+
     }
 // 5) Show the component on the screen
 root.render(<App/>);
