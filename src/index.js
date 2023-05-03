@@ -14,7 +14,7 @@
         const age = 23;
 
 
-        return <input type="number" min={5} max={10}/>;
+        return <textarea autoFocus={true}/>;
 
     }
 // 5) Show the component on the screen
