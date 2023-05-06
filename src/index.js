@@ -14,7 +14,7 @@
         const age = 23;
 
 
-        return <textarea autoFocus={false}/>;
+        return <textarea autoFocus={true}/>;
 
     }
 // 5) Show the component on the screen
