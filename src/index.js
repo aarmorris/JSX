@@ -11,7 +11,7 @@
 // 4) Create a component
     function App(){
         const name = 'Aaron';
-        const age = 23;
+        const age = 38;
 
 
         return <textarea autoFocus={true}/>;
